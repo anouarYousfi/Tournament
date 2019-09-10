@@ -6,7 +6,6 @@ import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
 
-
 /**
  *
  * This is a duel simulation
@@ -31,7 +30,7 @@ public class TournamentTest {
         swordsman.engage(viking);
 
         assertEquals(swordsman.hitPoints(),0);
-        assertThat(viking.hitPoints()).isEqualTo(35);
+        assertEquals(viking.hitPoints(),35);
 
     }
 }
