@@ -33,4 +33,23 @@ public class TournamentTest {
         assertEquals(viking.hitPoints(),35);
 
     }
+    /**
+     * a buckler cancel all the damages of a blow one time out of two
+     * a buckler is destroyed after blocking 3 blow from an axe
+     */
+    @Test
+    public void SwordsmanWithBucklerVsVikingWithBuckler() {
+
+        Swordsman swordsman = new Swordsman()
+                .equip("buckler");
+
+        Viking viking = new Viking()
+                .equip("buckler");
+
+        swordsman.engage(viking);
+
+        assertEquals(swordsman.hitPoints(),0);
+        assertEquals(viking.hitPoints(),70);
+
+    }
 }
