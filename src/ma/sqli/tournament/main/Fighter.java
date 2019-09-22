@@ -10,6 +10,7 @@ public abstract class Fighter {
     protected List<String> equipements;
 
 
+
     public abstract void engage(Fighter fighter);
 
     public void injure(Fighter fighter) {
@@ -35,6 +36,8 @@ public abstract class Fighter {
     }
 
 
+
+
     public int hitPoints() {
         if (healthPoints < 0) {
             return 0;
@@ -47,7 +50,9 @@ public abstract class Fighter {
 
         return (this.healthPoints <= 0 || fighter.healthPoints <= 0);
     }
+public  Fighter aedqd(){
 
+}
 
     public void destroyEquipement(String equipement) {
         equipements.remove(equipement);

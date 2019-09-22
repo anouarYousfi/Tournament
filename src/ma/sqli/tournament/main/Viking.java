@@ -12,6 +12,11 @@ public class Viking extends Fighter {
         this.equipements=new ArrayList<>();
         this.equip("axe");
 
+public class Viking extends Fighter {
+
+    public Viking() {
+        this.healthPoints = 120;
+        this.damage = 6;
     }
 
     @Override

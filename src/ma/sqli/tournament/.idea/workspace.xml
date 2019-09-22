@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4400da8f-104f-49ff-953c-84d994baf396" name="Default Changelist" comment="" />
+    <list default="true" id="ea00eb6b-1566-40bc-8390-dd54233241a8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectId" id="1R8oEmGH0gsEkPZRBbKs9c68rky" />
+  <component name="ProjectId" id="1R6lMC2nJfsB34sHzdA1gEhpaF1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/sqli-challenges/train-sqli-echallenge-2017-master/train-sqli-echallenge-2017-master" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.gitconfig" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,14 +37,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4400da8f-104f-49ff-953c-84d994baf396" name="Default Changelist" comment="" />
-      <created>1569057974707</created>
+      <changelist id="ea00eb6b-1566-40bc-8390-dd54233241a8" name="Default Changelist" comment="" />
+      <created>1568995375078</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569057974707</updated>
-      <workItem from="1569057985802" duration="1599000" />
-      <workItem from="1569074928110" duration="2520000" />
-      <workItem from="1569112269029" duration="596000" />
+      <updated>1568995375078</updated>
+      <workItem from="1568995376828" duration="33000" />
+      <workItem from="1569003109408" duration="779000" />
+      <workItem from="1569057678213" duration="274000" />
     </task>
     <servers />
   </component>
